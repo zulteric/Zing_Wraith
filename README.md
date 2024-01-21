@@ -10,3 +10,4 @@ to a looper and a granular module then out to the same FX chain.
 Finished with tone control to cut out low end.
 
 You can see a demo on my youtube channel @zulteric
+https://youtu.be/vgPPpwmH9LE?si=Ptrs--CIWuZOVTcu
